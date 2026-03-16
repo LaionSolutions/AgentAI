@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp \"76ce6e00d_LogoLaionSquareok_Black.png\" assets/images/logo-laion.png)",
+      "Bash(cp \"a4beb26c3_8d97eda3-8620-4765-a4b7-b0945a8be5f4.png\" assets/images/agentes-ia-conectados.png)",
+      "Bash(cp \"dca118e92_20260211_1104_ImageGeneration_remix_01kh62gdvgetnsnzbhtb9akwv0.png\" assets/images/equipo-medico-digital.png)",
+      "Bash(cp \"indexgeHViZNz.css\" assets/css/styles.css)",
+      "Bash(cp \"indexDZfZz_1zjs.descarga\" assets/js/app.js)"
+    ]
+  }
+}
